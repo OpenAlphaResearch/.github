@@ -1,6 +1,6 @@
 
 ## Hi there 🐻
-OpenAlpha was founded by a few Berkeley AI Research [(BAIR)](https://bair.berkeley.edu/) grad students and is a community-led collaborative research organization composed of graduate students, postdocs, and industry collaborators focused on applied projects
+OpenAlpha was founded by a few Berkeley AI Research [(BAIR)](https://bair.berkeley.edu/) grad students and is a community-led collaborative research organization composed of graduate students, postgrads, and industry collaborators focused on applied projects.
 
 <!--
 
